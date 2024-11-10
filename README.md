@@ -50,12 +50,15 @@ assign q_bar = ~q;
 endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Screenshot 2024-11-10 145142](https://github.com/user-attachments/assets/be80c968-05a5-40d9-ada4-0dfad1e3475d)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![Screenshot 2024-11-10 145152](https://github.com/user-attachments/assets/4a4a4bf8-7549-40ea-bab1-925097b3ae2d)
 
 
 **RESULTS**
+
  Thus T-FLIPFLOP-POSEDGE is verified successfully
