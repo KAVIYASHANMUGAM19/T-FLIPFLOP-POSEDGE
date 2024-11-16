@@ -31,6 +31,7 @@ From the above characteristic table, we can directly write the next state equati
 /* write all the steps invloved */
 
 **PROGRAM**
+
 ```
 vmodule TFLIPFLOPPOSEDGE( input clk, rst_n, input t,output reg q,output q_bar);
 always@(posedge clk) 
